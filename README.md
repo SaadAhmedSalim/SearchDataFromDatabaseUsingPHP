@@ -5,7 +5,7 @@ Using MySQL and PHP , show desired table in print and there is a search Button w
 <h3>Question</h3>
 
 <h5>Table data must be come from database
-Beythost link must be provided</h5>
+Byte host link must be provided</h5>
 
 Answer : 
 
